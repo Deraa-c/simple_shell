@@ -1,7 +1,7 @@
 #include "alx.h"
 
 /**
- * check_env l- this checks if the typed variable is an env variable
+ * check_env- this checks if the typed variable is an env variable
  *
  * @h: head of linked list
  * @in: input string

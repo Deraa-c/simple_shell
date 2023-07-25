@@ -3,9 +3,9 @@
 /**
  * strcat_cd - function that concatenates the message for cd error
  *
- * _strcpy - copies the string pointed by source (including the null character) to the destination
+ * _strcpy - copies the string pointed by source to the dest
  *
- * _strcat - concatenates string2 to string1 and ends the resulting string with the null character
+ * _strcate null char
  *
  * @datash: data relevant (directory)
  * @msg: message to print
